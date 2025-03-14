@@ -1,6 +1,8 @@
-# flutter_firebase
+# Flutter Firebase Realtime Database REST API integration
 
-A new Flutter project.
+## Firebase Database REST API
+
+https://firebase.google.com/docs/reference/rest/database
 
 ## Getting Started
 
